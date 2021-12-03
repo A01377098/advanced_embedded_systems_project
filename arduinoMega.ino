@@ -1,3 +1,7 @@
+// A01379571 | Juan Daniel Aranda Morales     
+// A01377098 | Eva Denisse Vargas Sosa    
+// A01750164 | Paul Martín García Morfín  
+// ITESM CEM
 
 // TRANSMISOR Y RECEPTOR
 // ADUINO MEGA 
